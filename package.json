@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "semantic-ui": "^2.2.2",
+    "vue": "^1.0.26",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^8.5.3",
+    "vue-style-loader": "^1.0.0",
+    "vue-table": "0.0.1",
+    "vueitems": "^0.7.1",
+    "webpack": "^1.13.1"
+  }
+}
